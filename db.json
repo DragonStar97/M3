@@ -2,28 +2,120 @@
     "tela": [
         {
             "id":1 ,
-            "nome": ""
+            "nome": "Monitor LG 19.5'' LED HD 20MK400H-B",
+            "preço": "500,00",
+            "status": "true"
+        },
+
+        {
+            "id":2 ,
+            "nome": "Monitor 23.8” Dell S2421HN",
+            "preço": "790,50",
+            "status": "true"
+        },
+
+        {
+            "id":3 ,
+            "nome": "Monitor Gamer LG 26 26WQ500",
+            "preço": "999,99",
+            "status": "true"
+        },
+
+        {
+            "id":4 ,
+            "nome":"Monitor LG Ultrawide 29WL500-29",
+            "preço": "1.090,00",
+            "status": "true"
         }
-    ]
+    ],
 
     "gabinete": [
         {
             "id":1 ,
-            "nome": ""
+            "nome": "Gabinete Gamer BPC-C3147",
+            "preço": "499,50",
+            "status": "true"
+        },
+
+        {
+            "id":2 ,
+            "nome": "GABINETE GAMER PICHAU PG-HX3-G01",
+            "preço": "699,00",
+            "status": "true"
+        },
+
+        {
+            "id":3 ,
+            "nome": "PC Gamer Mancer",
+            "preço": "1.000,00",
+            "status": "true"
+        },
+
+        {
+            "id":4 ,
+            "nome": "Gabinete TGT G250",
+            "preço": "130,90",
+            "status": "true"
         }
-    ]
+    ],
 
     "mouse": [
         {
             "id":1 ,
-            "nome": ""
+            "nome": "Mouse Gamer Redragon Cobra",
+            "preço": "101,54",
+            "status": "true"
+        },
+
+        {
+            "id":2 ,
+            "nome": "Mouse Razer Deathadder Essential",
+            "preço": "108,45",
+            "status": "true"
+        },
+
+        {
+            "id":3 ,
+            "nome": "Mouse HP Gamer USB M160 Preto 7ZZ79AA",
+            "preço": "R$28,90",
+            "status": "true"
+        },
+
+        {
+            "id":4 ,
+            "nome": "Mouse gamer 3200 DPI gaming MS-G260 x7",
+            "preço": "34,90",
+            "status": "true"
         }
-    ]
+    ],
 
     "teclado": [
         {
             "id":1 ,
-            "nome": ""
+            "nome": "Teclado Logitech K120",
+            "preço": "59,90",
+            "status": "true"
+        },
+
+        {
+            "id":2 ,
+            "nome": "Teclado TC213",
+            "preço": "22,27",
+            "status": "true"
+        },
+
+        {
+            "id":3 ,
+            "nome": "Teclado Gamer AW510K",
+            "preço": "999,00",
+            "status": "true"
+        },
+
+        {
+            "id":4 ,
+            "nome": "Teclado Gamer KG-40 ",
+            "preço": "60,19",
+            "status": "true"
         }
     ]
 }
